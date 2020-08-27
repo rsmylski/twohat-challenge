@@ -1,0 +1,38 @@
+{
+  "name": "twohat-challenge",
+  "version": "1.0.0",
+  "description": "Technical Interview challenge project to explore a chat conversation",
+  "main": "build/app.js",
+  "scripts": {
+    "build": "babel src -d build --copy-files",
+    "start": "babel-node src/app.js",
+    "test": "jest",
+    "lint": "eslint src/",
+    "lint:fix": "eslint src/ --fix",
+    "format": "prettier-eslint --write \"$(pwd)/src/**/*.js\""
+  },
+  "author": "Ryan Smylski",
+  "license": "MIT",
+  "dependencies": {
+    "nconf": "^0.10.0",
+    "pretty-print": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/eslint-parser": "^7.11.4",
+    "@babel/node": "^7.10.5",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "babel-jest": "^26.3.0",
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.20.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "jest": "^26.4.2",
+    "prettier-eslint": "^11.0.0",
+    "prettier-eslint-cli": "^5.0.0"
+  }
+}

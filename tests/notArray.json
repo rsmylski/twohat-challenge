@@ -1,0 +1,21 @@
+{
+  "count": 0,
+  "text": "its my addiction",
+  "topics": [
+    {
+      "topic": 0,
+      "relevance": 128,
+      "confidence": 224
+    },
+    {
+      "topic": 6,
+      "relevance": 255,
+      "confidence": 224
+    }
+  ],
+  "player": "2820",
+  "flags": 0,
+  "client_id": 999,
+  "filtered": 1,
+  "simplified": "its my addiction"
+}

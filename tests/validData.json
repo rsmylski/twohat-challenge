@@ -1,0 +1,646 @@
+[
+  {
+    "count": 0,
+    "text": "its my addiction",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 128,
+        "confidence": 224
+      },
+      {
+        "topic": 6,
+        "relevance": 255,
+        "confidence": 224
+      }
+    ],
+    "player": "2820",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 1,
+    "simplified": "its my addiction"
+  },
+  {
+    "count": 0,
+    "text": "but everyone else was like trying to help out",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      },
+      {
+        "topic": 4,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2863",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "but everyone else was like trying to help out"
+  },
+  {
+    "count": 0,
+    "text": "who wants *****?",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 160,
+        "confidence": 1
+      }
+    ],
+    "player": "2981",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 1,
+    "simplified": "who wants *"
+  },
+  {
+    "count": 0,
+    "text": "LOOL",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2975",
+    "flags": 2,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "lool"
+  },
+  {
+    "count": 0,
+    "text": "nd my hair looks bad",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 0,
+        "confidence": 224
+      }
+    ],
+    "player": "2882",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "nd my hair looks bad"
+  },
+  {
+    "count": 0,
+    "text": "s",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2981",
+    "flags": 4251663,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "s"
+  },
+  {
+    "count": 0,
+    "text": "aw did u ger ur [pic",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 0,
+        "confidence": 224
+      },
+      {
+        "topic": 12,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2975",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "aw did u ger ur [ pic"
+  },
+  {
+    "count": 0,
+    "text": "e",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2981",
+    "flags": 4251663,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "e"
+  },
+  {
+    "count": 0,
+    "text": "hello",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 0,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 0,
+        "confidence": 224
+      }
+    ],
+    "player": "2967",
+    "flags": 4251727,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "hello"
+  },
+  {
+    "count": 0,
+    "text": "Hey, I'm Frank!",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 64,
+        "confidence": 224
+      },
+      {
+        "topic": 12,
+        "relevance": 0,
+        "confidence": 224
+      }
+    ],
+    "player": "0",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "hey  i'm Joseph"
+  },
+  {
+    "count": 0,
+    "text": "x",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2981",
+    "flags": 4252687,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "x"
+  },
+  {
+    "count": 0,
+    "text": "nooo",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2882",
+    "flags": 4243535,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "nooo"
+  },
+  {
+    "count": 0,
+    "text": "oo time to become bored again ",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 0,
+        "confidence": 224
+      },
+      {
+        "topic": 12,
+        "relevance": 0,
+        "confidence": 224
+      }
+    ],
+    "player": "2820",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "oo time to become bored again"
+  },
+  {
+    "count": 0,
+    "text": "like yesteesay",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 160,
+        "confidence": 1
+      }
+    ],
+    "player": "2820",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 1,
+    "simplified": "like yesteesay"
+  },
+  {
+    "count": 0,
+    "text": "aaw",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2975",
+    "flags": 4243471,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "aaw"
+  },
+  {
+    "count": 0,
+    "text": "y",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2804",
+    "flags": 4243471,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "y"
+  },
+  {
+    "count": 0,
+    "text": "show me wen u get it",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 0,
+        "confidence": 224
+      },
+      {
+        "topic": 4,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2975",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "show me wen u get it"
+  },
+  {
+    "count": 0,
+    "text": "yesterday",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2820",
+    "flags": 4252175,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "yesterday"
+  },
+  {
+    "count": 0,
+    "text": "afk",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2987",
+    "flags": 4243471,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "afk"
+  },
+  {
+    "count": 0,
+    "text": "lol",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2987",
+    "flags": 4247631,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "lol"
+  },
+  {
+    "count": 0,
+    "text": "lol depends ",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2882",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "lol depends"
+  },
+  {
+    "count": 0,
+    "text": "where am I",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2967",
+    "flags": 2,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "where am i"
+  },
+  {
+    "count": 0,
+    "text": "LOOL",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2975",
+    "flags": 2,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "lool"
+  },
+  {
+    "count": 0,
+    "text": "big time rush",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 0,
+        "confidence": 224
+      }
+    ],
+    "player": "2939",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "big time rush"
+  },
+  {
+    "count": 0,
+    "text": "well tht girl started agin 2day",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 0,
+        "confidence": 224
+      },
+      {
+        "topic": 12,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2975",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "well tht girl started agin 2day"
+  },
+  {
+    "count": 0,
+    "text": "tell u all the werid facts i find",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      },
+      {
+        "topic": 1,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2820",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "tell u all the weird facts i find"
+  },
+  {
+    "count": 0,
+    "text": "oh",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2863",
+    "flags": 4517983,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "oh"
+  },
+  {
+    "count": 0,
+    "text": "no ingles",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 128,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 128,
+        "confidence": 224
+      }
+    ],
+    "player": "2939",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 1,
+    "simplified": "no ingles"
+  },
+  {
+    "count": 0,
+    "text": "You saying we're boring?",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2804",
+    "flags": 2,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "you saying we're boring ?"
+  },
+  {
+    "count": 0,
+    "text": "n i got called in office wos funi",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      },
+      {
+        "topic": 3,
+        "relevance": 128,
+        "confidence": 224
+      },
+      {
+        "topic": 12,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2975",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "n i got called in office wos funi"
+  },
+  {
+    "count": 0,
+    "text": "Oh.",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2804",
+    "flags": 2,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "oh ."
+  },
+  {
+    "count": 0,
+    "text": "I was gonna ask why wernt you at school",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2863",
+    "flags": 2,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "i was gonna ask why wernt you at school"
+  },
+  {
+    "count": 0,
+    "text": "ohhhh",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 32,
+        "confidence": 224
+      }
+    ],
+    "player": "2882",
+    "flags": 2,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "ohhhh"
+  },
+  {
+    "count": 0,
+    "text": "but it's after 4",
+    "topics": [
+      {
+        "topic": 0,
+        "relevance": 64,
+        "confidence": 224
+      },
+      {
+        "topic": 4,
+        "relevance": 64,
+        "confidence": 224
+      }
+    ],
+    "player": "2863",
+    "flags": 0,
+    "client_id": 999,
+    "filtered": 0,
+    "simplified": "but it's after 4"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb-base",
+  "plugins": ["import", "jest"],
+  "env": {
+    "node": true
+  },
+  "overrides": [
+    {
+      "files": ["tests/**/*.js", "**/__tests__/*.js", "**/__tests__/**/*.js"],
+      "env": {
+        "jest": true,
+        "node": true
+      }
+    }
+  ],
+  "rules": {
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+    "max-len": ["error", { "code": 120 }]
+  }
+}
